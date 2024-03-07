@@ -15,14 +15,14 @@ redirect_from:
 
 ---
 
-## <font color=red>News</font></h3>
+## <font color=gray>News</font>
 
 - **[2024.03.02]** Our paper: "**BLE Location Tracking Attacks by Exploiting Frequency Synthesizer Imperfection**" is accepted by **IEEE Transactions on Mobile Computing** as a regular paper.
 - **[2023.12.02]** Our Paper: "**Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN**" is accepted by **IEEE INFOCOM** 2024.
 - **[2023.12.02]** Our Paper: "**Energy Optimization for Mobile Applications by Exploiting 5G Inactive State**" is accepted by **IEEE INFOCOM** 2024.
 
 ---
-## <font color=#5CADCD>Publications</font>
+## <font color=red>Publications</font>
 
 - Yeming Li, Hailong Lin, **Jiamei Lv***, Yi Gao, and Wei Dong*, BLE Location Tracking Attacks by Exploiting Frequency Synthesizer Imperfection, accepted to IEEE INFOCOM 2024. <font color=red>(CCF A)</font>
 - **Jiamei Lv**, Yi Gao, Zhi Ding, Yuxiang Lin, Xinyun You, Guang Yang and Wei Dong, Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN, accepted to IEEE INFOCOM 2024. <font color=red>(CCF A)</font>
