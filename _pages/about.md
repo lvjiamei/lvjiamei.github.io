@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Jiamei Lv (吕嘉美)"
+#title: "Homepage of Jiamei Lv (吕嘉美)"
 author_profile: true
 redirect_from: 
   - /about/
