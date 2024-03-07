@@ -15,7 +15,7 @@ redirect_from:
 
 ---
 
-<h3> <font color=#5CADCD>News</font></h3>
+<h3> <font color=red>News</font></h3>
 
 - **[2024.03.02]** Our paper: "**BLE Location Tracking Attacks by Exploiting Frequency Synthesizer Imperfection**" is accepted by **IEEE Transactions on Mobile Computing** as a regular paper.
 - **[2023.12.02]** Our Paper: "**Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN**" is accepted by **IEEE INFOCOM** 2024.
