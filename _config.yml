@@ -25,8 +25,8 @@ author:
   name             : "Jiamei Lyu"
   pronouns         : # example: "she/her"  
   bio              : "Zhejiang University"
-  location         :# "Earth"
-  employer         :# "Zhejiang University"
+  location         : "Earth"
+  employer         : "Zhejiang University"
   uri              : # URL
   email            : "lvjm@zju.edu.cn" 
 
