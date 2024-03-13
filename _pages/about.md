@@ -9,9 +9,13 @@ redirect_from:
 
 **Jiamei Lv (吕嘉美)** is currently a **Researcher (特聘研究员)** at School of Software Technology, Zhejiang University, work with [Prof. Wei Dong](https://dongw.emnets.cn/) and [Prof. Yi Gao](https://person.zju.edu.cn/gaoyi). She received her Ph.D. degree from the College of Computer Science, Zhejiang University in 2023, supervised by Prof. Chun Chen and Prof. Wei Dong. Prior to that, she received the B.E. degree from Ningbo University in 2018, supervised by Prof. Guang Jin.
 
-***Research Interests***: Internet of Things, edge computing, and 5G beyond. 
+***Research interests***: Internet of Things, edge computing, and 5G beyond. 
 
-***Email Address***: lvjm [at] zju [dot] edu [dot] cn 
+***Email address***: lvjm [at] zju [dot] edu [dot] cn 
+
+***Homepage of our lab***: [浙大物联网系统与网络实验室](https://www.emnets.cn/zh/)
+
+***Public account of our lab***: [浙大物联网系统与网络实验室](https://www.emnets.cn/zh/)
 
 ---
 
