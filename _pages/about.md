@@ -15,7 +15,9 @@ redirect_from:
 
 ***Homepage of our lab***: [浙大物联网系统与网络实验室](https://www.emnets.cn/zh/)/欢迎关注[微信公众号](../images/emnets-wechat.jpg)
 
----
+
+## <font color=blue>欢迎对物联网系统、低功耗无线网络、边缘智能、机密计算等方向感兴趣的同学联系~</font>
+
 
 ## <font color=black>News</font>
 
