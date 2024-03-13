@@ -13,9 +13,7 @@ redirect_from:
 
 ***Email address***: lvjm [at] zju [dot] edu [dot] cn 
 
-***Homepage of our lab***: [浙大物联网系统与网络实验室](https://www.emnets.cn/zh/)
-
-***Public account of our lab***: [浙大物联网系统与网络实验室](https://www.emnets.cn/zh/)
+***Homepage of our lab***: [浙大物联网系统与网络实验室](https://www.emnets.cn/zh/)/欢迎关注[微信公众号](../images/emnets-wechat.jpg)
 
 ---
 
