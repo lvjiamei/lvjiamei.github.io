@@ -29,11 +29,11 @@ redirect_from:
 ---
 ## <font color=black>Publications</font>
 
--Yixiao Teng, **Jiamei Lv**\*,, Ziping Wang, Yi Gao, and Wei Dong*, TimeChain: A Secure and Decentralized Off-chain Storage System for IoT Time Series Data, accepted to The ACM Web Conference 2025.
--Yeming Li, Hailong Lin, Renjie Li, **Jiamei Lv**\*,, Yi Gao, Wei Dong*, BoRa: LoRa over BLE, accepted to ACM MobiCom 2025.
--Tong Sun, Bowen Jiang, Borui Li, **Jiamei Lv**, Yi Gao, and Wei Dong, Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images, accepted to ACM Transactions on Storage, 2025.
--Yeming Li, Hailong Lin, **Jiamei Lv**\*, Yi Gao, and Wei Dong*, Combating BLE Weak Links by Adaptive Symbol Extension and DNN-based Demodulation, ACM SenSys 2024.
--Tong Sun, Bowen Jiang, Borui Li, **Jiamei Lv**, Yi Gao, and Wei Dong, SimEnc: a High-Performance Similarity Preserving Encryption Approach for Deduplication of Encrypted Docker Images, USENIX ATC 2024.
+- Yixiao Teng, **Jiamei Lv**\*,, Ziping Wang, Yi Gao, and Wei Dong*, TimeChain: A Secure and Decentralized Off-chain Storage System for IoT Time Series Data, accepted to The ACM Web Conference 2025. <font color=red>(CCF A)</font>
+- Yeming Li, Hailong Lin, Renjie Li, **Jiamei Lv**\*,, Yi Gao, Wei Dong*, BoRa: LoRa over BLE, accepted to ACM MobiCom 2025. <font color=red>(CCF A)</font>
+- Tong Sun, Bowen Jiang, Borui Li, **Jiamei Lv**, Yi Gao, and Wei Dong, Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images, accepted to ACM Transactions on Storage, 2025. <font color=red>(CCF A)</font>
+- Yeming Li, Hailong Lin, **Jiamei Lv**\*, Yi Gao, and Wei Dong*, Combating BLE Weak Links by Adaptive Symbol Extension and DNN-based Demodulation, ACM SenSys 2024. <font color=red>(CCF B)</font>
+- Tong Sun, Bowen Jiang, Borui Li, **Jiamei Lv**, Yi Gao, and Wei Dong, SimEnc: a High-Performance Similarity Preserving Encryption Approach for Deduplication of Encrypted Docker Images, USENIX ATC 2024. <font color=red>(CCF A)</font>
 - Yeming Li, Hailong Lin, **Jiamei Lv**\*, Yi Gao, and Wei Dong\*, BLE Location Tracking Attacks by Exploiting Frequency Synthesizer Imperfection, accepted to IEEE INFOCOM 2024. <font color=red>(CCF A)</font>
 - **Jiamei Lv**, Yi Gao\*, Zhi Ding, Yuxiang Lin, Xinyun You, Guang Yang and Wei Dong\*, Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN, accepted to IEEE INFOCOM 2024. <font color=red>(CCF A)</font>
 - Zhi Ding, Yuxiang Lin, Weifeng Xu, **Jiamei Lv**\*, Yi Gao\*, and Wei Dong, Energy Optimization for Mobile Applications by Exploiting 5G Inactive State, accepted to IEEE Transactions on Mobile Computing, 2024. <font color=red>(CCF A)</font>
