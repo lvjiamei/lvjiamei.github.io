@@ -29,22 +29,22 @@ redirect_from:
 ---
 ## <font color=black>Publications</font>
 
-- Yixiao Teng, **Jiamei Lv**\*,, Ziping Wang, Yi Gao, and Wei Dong*, TimeChain: A Secure and Decentralized Off-chain Storage System for IoT Time Series Data, accepted to The ACM Web Conference 2025. <font color=red>(CCF A)</font>
-- Yeming Li, Hailong Lin, Renjie Li, **Jiamei Lv**\*,, Yi Gao, Wei Dong*, BoRa: LoRa over BLE, accepted to ACM MobiCom 2025. <font color=red>(CCF A)</font>
+- Yixiao Teng, **Jiamei Lv**\*, Ziping Wang, Yi Gao, and Wei Dong*, TimeChain: A Secure and Decentralized Off-chain Storage System for IoT Time Series Data, accepted to The ACM Web Conference 2025. <font color=red>(CCF A)</font>
+- Yeming Li, Hailong Lin, Renjie Li, **Jiamei Lv**\*, Yi Gao, Wei Dong*, BoRa: LoRa over BLE, accepted to ACM MobiCom 2025. <font color=red>(CCF A)</font>
 - Tong Sun, Bowen Jiang, Borui Li, **Jiamei Lv**, Yi Gao, and Wei Dong, Exploiting Multiple Similarity Spaces for Deduplication of Encrypted Container Images, accepted to ACM Transactions on Storage, 2025. <font color=red>(CCF A)</font>
 - Yeming Li, Hailong Lin, **Jiamei Lv**\*, Yi Gao, and Wei Dong*, Combating BLE Weak Links by Adaptive Symbol Extension and DNN-based Demodulation, ACM SenSys 2024.
 - Tong Sun, Bowen Jiang, Borui Li, **Jiamei Lv**, Yi Gao, and Wei Dong, SimEnc: a High-Performance Similarity Preserving Encryption Approach for Deduplication of Encrypted Docker Images, USENIX ATC 2024. <font color=red>(CCF A)</font>
-- Yeming Li, Hailong Lin, **Jiamei Lv**\*, Yi Gao, and Wei Dong\*, BLE Location Tracking Attacks by Exploiting Frequency Synthesizer Imperfection, accepted to IEEE INFOCOM 2024. <font color=red>(CCF A)</font>
-- **Jiamei Lv**, Yi Gao\*, Zhi Ding, Yuxiang Lin, Xinyun You, Guang Yang and Wei Dong\*, Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN, accepted to IEEE INFOCOM 2024. <font color=red>(CCF A)</font>
-- Zhi Ding, Yuxiang Lin, Weifeng Xu, **Jiamei Lv**\*, Yi Gao\*, and Wei Dong, Energy Optimization for Mobile Applications by Exploiting 5G Inactive State, accepted to IEEE Transactions on Mobile Computing, 2024. <font color=red>(CCF A)</font>
-- **Jiamei Lv**, Yuxiang Lin, Mingxin Hou, Yeming Li, Yi Gao, and Wei Dong, Accurate Bandwidth and Delay Prediction for 5G Cellular Networks, accepted to ACM Transactions on Internet Technology, 2024.
-- Yeming Li, Borui Li, **Jiamei Lv**\*, and Wei Dong, BLEdge: Edge-centric programming for BLE applications with multi-connection optimization, accepted to ACM Transactions on Sensor Networks, 2024.
+- Yeming Li, Hailong Lin, **Jiamei Lv**\*, Yi Gao, and Wei Dong\*, BLE Location Tracking Attacks by Exploiting Frequency Synthesizer Imperfection, IEEE INFOCOM 2024. <font color=red>(CCF A)</font>
+- **Jiamei Lv**, Yi Gao\*, Zhi Ding, Yuxiang Lin, Xinyun You, Guang Yang and Wei Dong\*, Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN, IEEE INFOCOM 2024. <font color=red>(CCF A)</font>
+- Zhi Ding, Yuxiang Lin, Weifeng Xu, **Jiamei Lv**\*, Yi Gao\*, and Wei Dong, Energy Optimization for Mobile Applications by Exploiting 5G Inactive State, IEEE Transactions on Mobile Computing, 2024. <font color=red>(CCF A)</font>
+- **Jiamei Lv**, Yuxiang Lin, Mingxin Hou, Yeming Li, Yi Gao, and Wei Dong, Accurate Bandwidth and Delay Prediction for 5G Cellular Networks, ACM Transactions on Internet Technology, 2024.
+- Yeming Li, Borui Li, **Jiamei Lv**\*, and Wei Dong, BLEdge: Edge-centric programming for BLE applications with multi-connection optimization, ACM Transactions on Sensor Networks, 2024.
 - Yeming Li, **Jiamei Lv**\*, Borui Li, and Wei Dong*, RT-BLE: Real-time Multi-Connection Scheduling for Bluetooth Low Energy, IEEE INFOCOM 2023. <font color=red>(CCF A)</font>
 - **Jiamei Lv**, Wei Dong, Yi Gao, and Chun Chen, Performant TCP over BLE, IEEE ICNP 2022.
 - Wei Dong, **Jiamei Lv**, Gonglong Chen, Yihui Wang, Huikang Li, Yi Gao\*, Dinesh Bharadia, TinyNet: a Lightweight, Modular, and Unified Network Architecture for the Internet of Things, ACM MobiSys 2022.
-- **Jiamei Lv**, Gonglong Chen, and Wei Dong\*, Exploiting Rateless Codes and Cross-Layer Optimization for Low-Power Wide-Area Networks, accepted to ACM Transactions on Sensor Networks, 2022. 
+- **Jiamei Lv**, Gonglong Chen, and Wei Dong\*, Exploiting Rateless Codes and Cross-Layer Optimization for Low-Power Wide-Area Networks, ACM Transactions on Sensor Networks, 2022. 
 - Gonglong Chen, Wei Dong\*, and **Jiamei Lv**, LoFi: Enabling 2.4GHz LoRa and WiFi Coexistence by Detecting Extremely Weak Signals, IEEE INFOCOM 2021. <font color=red>(CCF A)</font>
-- **Jiamei Lv**, Gonglong Chen, and Wei Dong, Isolayer: The Case for an IoT Protocol Isolation Layer, accepted to IEEE/ACM IWQoS 2021. 
+- **Jiamei Lv**, Gonglong Chen, and Wei Dong, Isolayer: The Case for an IoT Protocol Isolation Layer, IEEE/ACM IWQoS 2021. 
 - Gonglong Chen, **Jiamei Lv**, and Wei Dong\*, "Exploiting Rateless Codes and Cross-Layer Optimization for Low-Power Wide-Area Networks", IEEE/ACM IWQoS 2020. 
 - **Jiamei Lv**, Yuxuan Zhang, Yi Gao, Wei Dong, and Chun Chen, "A General Approach to Robust QR Codes Decoding", IEEE/ACM IWQoS 2020.
 - Zhiwei Zhao, Geyong Min, Yaoyao Pang, Weifeng Gao, **Jiamei Lv**, "Towards Fast and Reliable WiFi Authentication by Utilizing Visible Light Diversity", IEEE SECON 2019.
